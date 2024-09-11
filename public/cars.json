@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "brand": "Tesla",
+        "model": "Model S",
+        "img": "https://i.ibb.co.com/5TM57cS/67354.jpg",
+        "description": "The Tesla Model S is an all-electric luxury sedan with cutting-edge technology and impressive range.",
+        "price": "$89,990",
+        "offer": "25%"
+    },
+    {
+        "id": "2",
+        "brand": "BMW",
+        "model": "X5",
+        "img": "https://i.ibb.co.com/5TM57cS/67354.jpg",
+        "description": "The BMW X5 is a luxury SUV offering powerful performance, a spacious interior, and advanced safety features.",
+        "price": "$61,700",
+        "offer": "20%"
+    },
+    {
+        "id": "3",
+        "brand": "Audi",
+        "model": "A6",
+        "img": "https://i.ibb.co.com/5TM57cS/67354.jpg",
+        "description": "The Audi A6 combines sophisticated design with exceptional comfort and innovative technology for a top-tier driving experience.",
+        "price": "$54,900",
+        "offer": "25%"
+    },
+    {
+        "id": "4",
+        "brand": "Mercedes-Benz",
+        "model": "E-Class",
+        "img": "https://i.ibb.co.com/5TM57cS/67354.jpg",
+        "description": "The Mercedes-Benz E-Class is a premium sedan known for its luxurious interiors and advanced driver assistance systems.",
+        "price": "$56,000",
+        "offer": "35%"
+    },
+    {
+        "id": "5",
+        "brand": "Ford",
+        "model": "Mustang",
+        "img": "https://i.ibb.co.com/5TM57cS/67354.jpg",
+        "description": "The Ford Mustang is a classic American muscle car, renowned for its powerful engines and bold design.",
+        "price": "$42,500"
+    },
+    {
+        "id": "6",
+        "brand": "Chevrolet",
+        "model": "Camaro",
+        "img": "https://i.ibb.co.com/5TM57cS/67354.jpg",
+        "description": "The Chevrolet Camaro offers a thrilling ride with its robust performance and aggressive styling.",
+        "price": "$37,000"
+    },
+    {
+        "id": "7",
+        "brand": "Toyota",
+        "model": "Camry",
+        "img": "https://i.ibb.co.com/5TM57cS/67354.jpg",
+        "description": "The Toyota Camry is a reliable and efficient sedan, perfect for families and daily commuting.",
+        "price": "$26,500"
+    },
+    {
+        "id": "8",
+        "brand": "Honda",
+        "model": "Civic",
+        "img": "https://i.ibb.co.com/5TM57cS/67354.jpg",
+        "description": "The Honda Civic is a popular compact car known for its fuel efficiency, safety, and modern design.",
+        "price": "$24,200"
+    },
+    {
+        "id": "9",
+        "brand": "Nissan",
+        "model": "Altima",
+        "img": "https://i.ibb.co.com/5TM57cS/67354.jpg",
+        "description": "The Nissan Altima offers a comfortable ride with advanced technology and excellent fuel economy.",
+        "price": "$27,400"
+    },
+    {
+        "id": "10",
+        "brand": "Hyundai",
+        "model": "Sonata",
+        "img": "https://i.ibb.co.com/5TM57cS/67354.jpg",
+        "description": "The Hyundai Sonata is a midsize sedan that blends style, technology, and affordability.",
+        "price": "$25,700"
+    }
+]
